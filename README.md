@@ -4,6 +4,8 @@
 
 Latest YouTube Videos
 
-Languages and Tools
+### Languages and Tools
+
+![HTML5](https://img.shields.io/badge/-HTML5-FF0000?style=for-the-badge&logo=html)
 
 Follow Me
