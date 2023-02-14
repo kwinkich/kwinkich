@@ -1,4 +1,4 @@
-Header
+![Header](https://github.com/kwinkich/kwinkich/blob/main/assets/poor.gif)
 
 About me
 
