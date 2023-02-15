@@ -4,6 +4,8 @@
 
 ## I'm beginner programmers. Live in Ukraine, if be more precise in Odessa. I strive to be a professional full-stack developer. I actively study new methodologies, frameworks, ways of writing code and much more in the chosen direction.
 
+![PROGGIF](https://github.com/kwinkich/kwinkich/blob/main/assets/code.gif)
+
 ### <strong> Languages </strong>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5&logoColor=ff000)
