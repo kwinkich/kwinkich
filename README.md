@@ -23,3 +23,5 @@
 ![GIT](https://img.shields.io/badge/-GIT-000?style=for-the-badge&logo=git&logoColor=FF2E00)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31vxev3i3cd7l6miatpicfmfhsla&cover_image=true&theme=natemoo-re&show_offline=false&background_color=ffffff&bar_color=0011ff&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
