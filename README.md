@@ -1,4 +1,4 @@
-![Header](https://github.com/kwinkich/kwinkich/blob/main/assets/sonic.gif)
+![Header](https://github.com/kwinkich/kwinkich/blob/main/assets/akashi.gif)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwinkich&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
