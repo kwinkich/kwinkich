@@ -24,6 +24,11 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-000?style=for-the-badge&logo=adobephotoshop&logoColor=6C95FF)
 ![GIT](https://img.shields.io/badge/-GIT-000?style=for-the-badge&logo=git&logoColor=FF2E00)
 
+</br>
+</br>
+
+# <strong> My Git statistic </strong>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwinkich&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
