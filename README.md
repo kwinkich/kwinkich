@@ -1,4 +1,4 @@
-![Header](https://github.com/kwinkich/kwinkich/blob/main/assets/akashi.gif)
+![Header](https://github.com/kwinkich/kwinkich/blob/main/assets/akaka.gif)
 
 # <b>About me</b>
 
