@@ -43,3 +43,6 @@
 ### <strong> Listening now </strong>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31vxev3i3cd7l6miatpicfmfhsla&cover_image=true&theme=natemoo-re&show_offline=false&background_color=ffffff&bar_color=0011ff&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
+
+<div class="typingStats vertical"><div class="started"><div class="title">tests started</div><div class="value">2562</div></div><div class="completed"><div class="title">tests completed</div><div class="value">695</div></div><div class="timeTyping"><div class="title">time typing</div><div class="value">05:28:52</div></div></div>
