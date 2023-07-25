@@ -21,7 +21,7 @@
 
 ![REACT](https://img.shields.io/badge/-React.js-000?style=for-the-badge&logo=react&logoColor=55ADFF)
 ![RUST](https://img.shields.io/badge/-RUST-000?style=for-the-badge&logo=rust&logoColor=FF4040)
-![PYTHON](https://img.shields.io/badge/-NODEJS-000?style=for-the-badge&logo=nodejs&logoColor=FF9900)
+![PYTHON](https://img.shields.io/badge/-NODE_JS-000?style=for-the-badge&logo=nodedotjs&logoColor=FF9900)
 
 ### <strong> Used tools </strong>
 
