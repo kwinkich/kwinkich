@@ -9,7 +9,7 @@
 
 # <b>Used technologies</b>
 
-<img align="right" alt="GIF" src="assets/4.gif" width="400" height="320" />
+<img align="right" alt="GIF" src="assets/4GIF.gif" width="400" height="320" />
 
 ### <strong> Skills </strong>
 
