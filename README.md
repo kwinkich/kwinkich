@@ -16,10 +16,11 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5&logoColor=ff000)
 ![CSS](https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=css3&logoColor=0075FF)
 ![JS](https://img.shields.io/badge/-JS-000?style=for-the-badge&logo=javascript&logoColor=FAFF00)
+![REACT](https://img.shields.io/badge/-React.js-000?style=for-the-badge&logo=react&logoColor=55ADFF)
 
 ### <strong> Under study </strong>
 
-![REACT](https://img.shields.io/badge/-React.js-000?style=for-the-badge&logo=react&logoColor=55ADFF)
+![TYPESCRIPT](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript&logoColor=55ADFF)
 ![RUST](https://img.shields.io/badge/-RUST-000?style=for-the-badge&logo=rust&logoColor=FF4040)
 ![NODEJS](https://img.shields.io/badge/-NODE_JS-000?style=for-the-badge&logo=nodedotjs&logoColor=1CA706)
 
