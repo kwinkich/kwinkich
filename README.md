@@ -18,7 +18,7 @@
 ![JS](https://img.shields.io/badge/-JS-000?style=for-the-badge&logo=javascript&logoColor=FAFF00)
 ![REACT](https://img.shields.io/badge/-React.js-000?style=for-the-badge&logo=react&logoColor=55ADFF)
 ![BOOTSTRAP](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=9342f5)
-![TAILWIND](https://img.shields.io/badge/-Tailwind-000?style=for-the-badge&logo=tailwind&logoColor=42f5e0)
+![TAILWIND](https://img.shields.io/badge/-Tailwind-000?style=for-the-badge&logo=tailwindcss&logoColor=42f5e0)
 
 
 ### <strong> Under study </strong>
