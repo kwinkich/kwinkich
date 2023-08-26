@@ -26,7 +26,7 @@
 ![TYPESCRIPT](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript&logoColor=55ADFF)
 ![RUST](https://img.shields.io/badge/-RUST-000?style=for-the-badge&logo=rust&logoColor=FF4040)
 ![NODEJS](https://img.shields.io/badge/-NODE_JS-000?style=for-the-badge&logo=nodedotjs&logoColor=1CA706)
-![NEXTJS](https://img.shields.io/badge/-NEXT_JS-000?style=for-the-badge&logo=nextjs&logoColor=000000)
+![NEXTJS](https://img.shields.io/badge/-NEXT_JS-000?style=for-the-badge&logo=nextdotjs&logoColor=000000)
 
 ### <strong> Used tools </strong>
 
