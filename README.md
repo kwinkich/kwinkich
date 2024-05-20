@@ -4,8 +4,6 @@
 
 # <b>Used technologies</b>
 
-<img align="right" alt="GIF" src="assets/4GIF.gif" width="400" height="320" />
-
 ### <strong> Skills </strong>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5&logoColor=ff000)
