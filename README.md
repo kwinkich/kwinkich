@@ -1,10 +1,5 @@
 ![Header](https://github.com/kwinkich/kwinkich/blob/main/assets/3GIF.gif)
 
-# <b>About me</b>
-
-## I'm beginner programmers. Live in Ukraine, if be more precise in Odessa. I strive to be a professional full-stack developer. I actively study new methodologies, frameworks, ways of writing code and much more in the chosen direction.
-
-<br>
 <br>
 
 # <b>Used technologies</b>
