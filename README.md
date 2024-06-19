@@ -18,7 +18,7 @@
 
 ![TYPESCRIPT](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript&logoColor=55ADFF)
 ![NODEJS](https://img.shields.io/badge/-NODE_JS-000?style=for-the-badge&logo=nodedotjs&logoColor=1CA706)
-![Solidity](https://img.shields.io/badge/-SOLIDITY-000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
+![SOLIDITY](https://img.shields.io/badge/-SOLIDITY-000?style=for-the-badge&logo=solidity&logoColor=ffffff)
 
 ### <strong> Used tools </strong>
 
